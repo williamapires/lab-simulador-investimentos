@@ -33,9 +33,9 @@ Simulação de Longo Prazo: Projeção de patrimônio e dividendos acumulados pa
 Cálculo Reverso: A ferramenta sugere o aporte ideal baseado na meta de investimento do usuário.
 
 ## 🛠️ Stack Utilizada
-Microsoft Excel: Modelagem de dados, Fórmulas lógicas e Financeiras.
+**Microsoft Excel**: Modelagem de dados, Fórmulas lógicas e Financeiras.
 
-Git/GitHub: Documentação e versionamento de projeto.
+**Git/GitHub**: Documentação e versionamento de projeto.
 
 ## 🚀 Como testar
 Baixe o arquivo ```.xlsx``` deste repositório.
